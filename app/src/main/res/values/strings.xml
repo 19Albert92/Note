@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">workYoutube</string>
+    <string name="text_test">My allert text</string>
+    <string name="text_messege">siple allert dialog messege</string>
+</resources>
